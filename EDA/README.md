@@ -10,7 +10,6 @@ Netflix Dataset: https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
 data.txt = combined data
 
-
 items.txt = itemID (all items in the dataset)
 
 user.txt = userID (trimmed for only users with 100 ratings)
