@@ -8,6 +8,8 @@ Netflix Dataset: https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
 moved the downloaded files into /EDA directory
 
+Parsed Raw Data
+https://drive.google.com/file/d/1I3r5O2RY5ggfgz4dk2oJ3MMj2aCIllTC/view?usp=sharing
 
 # Data files
 
