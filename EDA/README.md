@@ -6,6 +6,9 @@ Data is too big to be stored onto github so download it from the Kaggle
 Netflix Dataset: https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
 
+moved the downloaded files into /EDA directory
+
+
 # Data files
 
 data.txt = combined data
