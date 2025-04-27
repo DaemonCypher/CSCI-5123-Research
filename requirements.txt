@@ -4,9 +4,9 @@ pandas
 numpy
 scipy
 implicit
-recometrics
 poismf
 sklearn
 tqdm
 recsys_metrics
 torch
+dask
